@@ -1,0 +1,26 @@
+.img_box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.large-img {
+    width: 98vw;
+    margin: 1vw;
+}
+
+.small-img {
+    width: 22vw;
+    margin: 1vw;
+    height: 12vw;
+}
+
+.small-selected-img {
+    width: 22vw;
+    margin: 1vw;
+    height: 12vw;
+    border: solid 0.25vw;
+    border-color: yellow;
+
+}
